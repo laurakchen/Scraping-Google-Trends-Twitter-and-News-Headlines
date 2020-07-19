@@ -3,8 +3,14 @@ Portfolio Formation with Scraping Google Trends, Twitter, and News Headlines Dat
 
 •	Constructed a portfolio by building a machine learning model to predict performance of 10 ETFs using scraped data
 
-## Tools/Libraries Utilized:
-Python, Pandas, Sklearn, twitterscraper, pytrends, Textblob, Microsoft Excel
+## Tools Utilized:
+Python, Pandas, Microsoft Excel
 
-## Databases/Sources Utilized:
+Packages/Libraries:
+•	twitterscraper- scrape Twitter tweets over time
+•	pytrends- scrape Google Trends data and interest over time
+•	Textblob- used for sentiment analysis on Twitter tweets
+•	sklearn- build machine learning model
+
+## Databases/Sources Parsed:
 Reuters News, CNN, Twitter, Google Trends
