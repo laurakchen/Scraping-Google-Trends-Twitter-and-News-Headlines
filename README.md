@@ -8,13 +8,13 @@ Python, Pandas, Microsoft Excel
 
 Packages/Libraries:
 
-•	twitterscraper- scrape Twitter tweets over time
+•	twitterscraper- scrape Twitter tweets over time (see twitterscraper.py for scraping tweets)
 
-•	pytrends- scrape Google Trends data and interest over time
+•	pytrends- scrape Google Trends data and interest over time (see updated_gtrends.csv)
 
-•	Textblob- used for sentiment analysis on Twitter tweets
+•	Textblob- used for sentiment analysis on Twitter tweets (see twitterscraper.py)
 
 •	sklearn- build machine learning model
 
 ## Databases/Sources Parsed:
-Reuters News, CNN, Twitter, Google Trends
+Reuters News, CNN, The Guardian, Twitter, Google Trends
