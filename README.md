@@ -7,6 +7,7 @@ Portfolio Formation with Scraping Google Trends, Twitter, and News Headlines Dat
 Python, Pandas, Microsoft Excel
 
 Packages/Libraries:
+
 •	twitterscraper- scrape Twitter tweets over time
 •	pytrends- scrape Google Trends data and interest over time
 •	Textblob- used for sentiment analysis on Twitter tweets
